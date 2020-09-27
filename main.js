@@ -7,7 +7,7 @@ const dadPrefix = ["i'm ", "im ", "i am "];
 const token = 'Placeholder'; // super secret token
 const version = "+ version 2, runs 24/7\n+ Open source, yay! \n/will update,";
 
-var dadbotEnabled = false;
+var dadbotEnabled = true;
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
