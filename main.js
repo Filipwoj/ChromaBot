@@ -1,4 +1,4 @@
-//Bot version: 2.1.0
+//Bot version: 2.0.0
 //You look fire, girl. You should join the Chromaverse server https://discord.gg/e229Wvp && my server https://discord.gg/EdQwYG2
 const Discord = require('discord.js');
 const client = new Discord.Client();
