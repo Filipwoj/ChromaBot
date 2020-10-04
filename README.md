@@ -1,3 +1,3 @@
 # ChromaBot
 An open source bot for Chromaverse  
-**Asparagus and Baguette are developmental branches**
+~~**Asparagus and Baguette are developmental branches**~~ not anymore
